@@ -11,5 +11,6 @@ export const personalData = {
   facebook: "https://www.facebook.com/kingkd.me/",
   linkedIn: "https://www.linkedin.com/in/kailash-dhungana/",
   resume:
-    "https://drive.google.com/file/d/1-kEP3EE90mWTD-R-ky1fXIByrETva95V/view?usp=drive_link",
+    // "https://drive.google.com/file/d/1-kEP3EE90mWTD-R-ky1fXIByrETva95V/view?usp=drive_link",
+    "https://drive.google.com/file/d/1z9ZU7B5DHJvv1xn56g4uyLACPTTNbkcS/view?usp=drive_link"
 };
